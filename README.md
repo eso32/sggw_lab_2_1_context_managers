@@ -1,1 +1,5 @@
-# sggw_lab_2_1_context_managersLogger-
+# Context Managers in Python
+
+## Running project:
+
+`poetry run python -m src.main`
